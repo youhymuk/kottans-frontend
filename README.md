@@ -3,10 +3,10 @@
 ## General
 - [x] [**Git Basics**](#git_basics)
 - [x] [**Linux CLI and Networking**](#linux_cli)
-- [ ] [**VCS (hello gitty), GitHub and Collaboration**](#git_collab)
+- [x] [**VCS (hello gitty), GitHub and Collaboration**](#git_collab)
 ## Front-End Basics
-- [ ] **Intro to HTML & CSS]**
-- [ ] **Responsive Web Design]**
+- [ ] **Intro to HTML & CSS**
+- [ ] **Responsive Web Design**
 - [ ] **HTML & CSS Practice**
 - [ ] **JavaScript Basics**
 - [ ] **Document Object Model - practice**
@@ -48,3 +48,19 @@ I knew only basic commands of CLI, but after this course, I learned many useful 
 - `df` show free disc space
 
 In the articles about networking, everything was new to me except for request methods and status codes.
+
+## <a name='git_collab'>GitHub and Collaboration</a>
+
+[GitHub and Collaboration Screenshots](git_collaboration)
+
+Learned about:
+- difference between `pull` and `fetch`
+- `git shortlog` to groupe each commit by author and title
+- `git log --greb=word` to watch all commits related to word
+- `git remote rename` to rename the current remote
+- `git branch -f master HEAD` to move branch
+- `git cherry-pick <Commit1> <Commit2> <...>` copy commits to HEAD
+- `git branch -u origin/master branchName` the current branch will track a remote branch
+
+
+[Here](https://learngitbranching.js.org) I also figured out in more detail how to work with `push`, `fetch` and `pull` commands.
