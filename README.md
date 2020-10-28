@@ -5,9 +5,9 @@
 - [x] [**Linux CLI and Networking**](#linux_cli)
 - [x] [**VCS (hello gitty), GitHub and Collaboration**](#git_collab)
 ## Front-End Basics
-- [ ] **Intro to HTML & CSS**
+- [x] [**Intro to HTML & CSS**](#html_css)
 - [ ] **Responsive Web Design**
-- [ ] **HTML & CSS Practice**
+- [x] [**HTML & CSS Practice**](#html_css_task)
 - [ ] **JavaScript Basics**
 - [ ] **Document Object Model - practice**
 ## Advanced Topics
@@ -64,3 +64,15 @@ Learned about:
 
 
 [Here](https://learngitbranching.js.org) I also figured out in more detail how to work with `push`, `fetch` and `pull` commands.
+
+## <a name='html_css'>Intro to HTML & CSS</a>
+
+[Intro to HTML & CSS Screenshots](html_css_intro)
+
+I did not learn anything new in this section, but I  have repeated the material :smiley:
+
+## <a name='html_css_task'>HTML & CSS Practice</a>
+
+It wasn't very hard, but good practice for me.
+
+[Demo](https://youhymuk.github.io/html-css-popup/) | [Code Base](https://github.com/youhymuk/html-css-popup)
