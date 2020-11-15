@@ -6,7 +6,7 @@
 - [x] [**VCS (hello gitty), GitHub and Collaboration**](#git_collab)
 ## Front-End Basics
 - [x] [**Intro to HTML & CSS**](#html_css)
-- [ ] **Responsive Web Design**
+- [x] [**Responsive Web Design**](#responsive)
 - [x] [**HTML & CSS Practice**](#html_css_task)
 - [ ] **JavaScript Basics**
 - [ ] **Document Object Model - practice**
@@ -70,6 +70,12 @@ Learned about:
 [Intro to HTML & CSS Screenshots](html_css_intro)
 
 I did not learn anything new in this section, but I  have repeated the material :smiley:
+
+## <a name='responsive'>Intro to HTML & CSS</a>
+
+[Responsive Web Design](responsive_web_design)
+
+As in the previous step, there was nothing new for me :sunglasses:
 
 ## <a name='html_css_task'>HTML & CSS Practice</a>
 
